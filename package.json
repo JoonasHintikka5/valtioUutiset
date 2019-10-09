@@ -1,0 +1,15 @@
+{
+  "name": "valtiouutiset",
+  "version": "1.0.0",
+  "description": "uutis feed",
+  "main": "valtioUutiset.js",
+  "dependencies": {
+    "feed-read": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joonas Hintikka",
+  "license": "ISC"
+}
